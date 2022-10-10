@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+[![jlkobane GitHub stats](https://github-readme-stats.vercel.app/api?username=jlkobane)](https://github.com/jlkobane/github-readme-stats)
+
+
 
 <!--
 **jlkobane/jlkobane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
