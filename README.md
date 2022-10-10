@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlkobane&layout=compact)](https://github.com/jlkobane/github-readme-stats)
+
 [![jlkobane GitHub stats](https://github-readme-stats.vercel.app/api?username=jlkobane)](https://github.com/jlkobane/github-readme-stats)
 
 
